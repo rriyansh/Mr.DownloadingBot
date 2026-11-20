@@ -1,8 +1,15 @@
 __pycache__/
 *.pyc
 .env
+.env.*
+!.env.example
 /data/
 *.mp3
 *.mp4
+*.mkv
+*.webm
 *.part
 temp/
+venv/
+.venv/
+approved_users.json
